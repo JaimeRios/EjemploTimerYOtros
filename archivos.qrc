@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>files_folder_256.png</file>
+    </qresource>
+</RCC>
